@@ -1,0 +1,4 @@
+Model,Accuracy,Precision,Recall
+Random Forest,1.0,1.0,1.0
+Random Forest,1.0,1.0,1.0
+Decision Tree,0.9853658536585366,1.0,0.9714285714285714

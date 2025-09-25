@@ -1,0 +1,3 @@
+Best by accuracy: Random Forest (Accuracy=1.000, Precision=1.000, Recall=1.000).
+High recall is valuable for medical screening (fewer missed positive cases).
+AUC ranking: Random Forest (AUC=1.000), Decision Tree (AUC=0.986), Logistic Regression (AUC=0.945).
